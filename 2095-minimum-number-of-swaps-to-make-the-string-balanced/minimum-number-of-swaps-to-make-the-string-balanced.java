@@ -17,7 +17,7 @@ class Solution {
             }
 
         }
-        return (imbalance+1)/2;
+        return (count+1)/2;
         
     }
 }
