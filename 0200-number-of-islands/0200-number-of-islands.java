@@ -4,13 +4,10 @@ class Solution {
             return;
         }
         grid[i][j]='0';
+        dfs(grid,i+1,j);
         dfs(grid,i-1,j);
         dfs(grid,i,j+1);
-                dfs(grid,i-1,j);
-
         dfs(grid,i,j-1);
-                dfs(grid,i+1,j);
-
     }
     public int numIslands(char[][] grid) {
         if(grid==null||grid.length==0||grid[0].length==0){
