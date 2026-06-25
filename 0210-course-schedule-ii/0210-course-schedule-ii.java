@@ -53,7 +53,7 @@ class Solution {
 
 // Your queue is empty initially, so
     if(j!=numCourses){
-        return new int[0];
+      return new int[]{0};
     }
         return ans;
 
