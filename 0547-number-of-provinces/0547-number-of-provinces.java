@@ -12,9 +12,10 @@ class Solution {
         for(int i=0;i<isConnected.length;i++){
             adj.add(new ArrayList<>());
         }
+       
         for(int i=0;i<isConnected.length;i++){
             for(int  j=0;j<isConnected.length;j++){
-                if(isConnected[i][j]==1){
+                if(isConnected[i][j]==1&&i!=j){
                     adj.get(i).add(j);
                     adj.get(j).add(i);
                 }
