@@ -12,6 +12,7 @@
 | [0994-rotting-oranges](https://github.com/Chandru9842/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Chandru9842/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Chandru9842/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1732-find-the-highest-altitude](https://github.com/Chandru9842/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Chandru9842/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Chandru9842/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
