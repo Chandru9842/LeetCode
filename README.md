@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Chandru9842/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Chandru9842/LeetCode/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Chandru9842/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chandru9842/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0542-01-matrix) |
@@ -78,6 +79,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Chandru9842/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chandru9842/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0542-01-matrix) |
@@ -97,6 +99,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0054-spiral-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Chandru9842/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Prefix Sum
 |  |
