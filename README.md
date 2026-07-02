@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Chandru9842/LeetCode/tree/master/0031-next-permutation) |
+| [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -159,8 +160,13 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Linked List
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
