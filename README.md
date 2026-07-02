@@ -44,6 +44,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Chandru9842/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Chandru9842/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chandru9842/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Chandru9842/LeetCode/tree/master/0207-course-schedule) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Chandru9842/LeetCode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Chandru9842/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chandru9842/LeetCode/tree/master/0200-number-of-islands) |
@@ -137,6 +139,7 @@
 | [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Chandru9842/LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Chandru9842/LeetCode/tree/master/0112-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
