@@ -42,6 +42,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/Chandru9842/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chandru9842/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Chandru9842/LeetCode/tree/master/0207-course-schedule) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Chandru9842/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Chandru9842/LeetCode/tree/master/0200-number-of-islands) |
@@ -131,9 +133,11 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
