@@ -104,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Chandru9842/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chandru9842/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0542-01-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0542-01-matrix) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -158,6 +161,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -168,5 +172,6 @@
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
