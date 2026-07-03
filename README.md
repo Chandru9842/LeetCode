@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Chandru9842/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Chandru9842/LeetCode/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Chandru9842/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Chandru9842/LeetCode/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Chandru9842/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Chandru9842/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Linked List
 |  |
@@ -204,4 +208,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Chandru9842/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Chandru9842/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
