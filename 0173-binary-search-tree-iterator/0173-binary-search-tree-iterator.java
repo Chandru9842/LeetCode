@@ -20,6 +20,9 @@ class BSTIterator {
 
     public BSTIterator(TreeNode root) {
         // st.push(root);
+        if(root==null){
+            return;
+        }
         while(!st.isEmpty()||root!=null){
             if(root!=null){
                 st.push(root);
