@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Chandru9842/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Chandru9842/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Chandru9842/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Chandru9842/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -97,6 +98,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chandru9842/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Chandru9842/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Chandru9842/LeetCode/tree/master/0130-surrounded-regions) |
@@ -188,6 +190,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chandru9842/LeetCode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
