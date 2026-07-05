@@ -5,15 +5,29 @@ class Solution {
         // return nums[nums.length-k];
 
         // optimal approach
+
+
+        // PriorityQueue<Integer>q=new PriorityQueue<>();
+        // for(int i=0;i<nums.length;i++){
+        //     q.offer(nums[i]);
+        //     if(q.size()>k){
+        //         q.poll();
+
+        //     }
+        // }
+        // return q.peek();
+
+
+        // my idea
         PriorityQueue<Integer>q=new PriorityQueue<>();
         for(int i=0;i<nums.length;i++){
             q.offer(nums[i]);
-            if(q.size()>k){
-                q.poll();
-
-            }
         }
-        return q.peek();
+        while(q.size()>k){
+            q.poll();
+        }
+        return q.poll();
+
         
     }
 }
