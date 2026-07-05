@@ -42,9 +42,9 @@ class Solution {
             int stops=it.from;
             int node=it.to;
             int cost=it.price;
-            if(stops>k){
-                continue;
-            }
+            // if(stops>k){
+            //     continue;
+            // }
             for(Pair iter:adj.get(node)){
                 int adjNode=iter.first;
                 int edW=iter.second;
