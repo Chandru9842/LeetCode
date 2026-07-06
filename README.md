@@ -24,6 +24,7 @@
 | [0997-find-the-town-judge](https://github.com/Chandru9842/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Chandru9842/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chandru9842/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1288-remove-covered-intervals](https://github.com/Chandru9842/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Chandru9842/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Chandru9842/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0912-sort-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Chandru9842/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Chandru9842/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
