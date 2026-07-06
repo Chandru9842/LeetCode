@@ -27,7 +27,7 @@ class Solution {
             // q.offer(i);
             while(!q.isEmpty()){
                 int node=q.poll();
-                // vis[node]=1;
+                vis[node]=1;
                 for(int it:adj.get(node)){
                     if(vis[it]==0){
                         vis[it]=1;
