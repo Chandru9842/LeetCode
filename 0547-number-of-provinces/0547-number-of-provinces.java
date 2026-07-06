@@ -21,7 +21,7 @@ class Solution {
            
             if(vis[i]==0){
                 count++;
-                vis[i]=1;
+                // vis[i]=1;
                 q.offer(i);
             }
             // q.offer(i);
