@@ -1,7 +1,7 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         ArrayList<ArrayList<Integer>>adj=new ArrayList<>();
-        int count=0;
+        // int count=0;
         Deque<Integer>q=new ArrayDeque<>();
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
@@ -11,35 +11,30 @@ class Solution {
             int v=prerequisites[i][1];
             adj.get(v).add(u);
         }
-        int[]indegree=new int[numCourses];
-        for(int i=0;i<numCourses;i++){
-            for(int j:adj.get(i)){
-                indegree[j]++;
+       int[]indegree=new int[numCourses];
+       for(int i=0;i<numCourses;i++){
+        for(int it:adj.get(i)){
+            indegree[it]++;
+        }
+       }
+       for(int i=0;i<numCourses;i++){
+        if(indegree[i]==0){
+            q.offer(i);
+        }
+       }
+       int count=0;
+       while(!q.isEmpty()){
+        int node=q.poll();
+        count++;
+        for(int iter:adj.get(node)){
+            indegree[iter]--;
+            if(indegree[iter]==0){
+                q.offer(iter);
             }
 
-
         }
-        for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0){
-                q.offer(i);
-            }
-        }
-        while(!q.isEmpty()){
-            int node=q.peek();
-            q.poll();
-            count++;
-            for(int i:adj.get(node)){
-                indegree[i]--;
-                if(indegree[i]==0){
-                    q.offer(i);
-
-                }
-            }
-        }
-        if(numCourses==count){
-            return true;
-        }
-        return false;
+       }
+       return count==numCourses;
         
     }
 }
