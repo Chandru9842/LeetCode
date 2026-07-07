@@ -228,6 +228,7 @@
 | [0066-plus-one](https://github.com/Chandru9842/LeetCode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Chandru9842/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
 | ------- |
