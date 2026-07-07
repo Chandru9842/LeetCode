@@ -13,10 +13,27 @@ class Solution {
         //     arr[i]=temp;
         // }
         // return arr;
-        int left=0;
-        // int right=
-        Arrays.sort(arr);
-        return arr;
+       
+
+
+        // Arrays.sort(arr);
+        // return arr;
+
+        // method 2
+        PriorityQueue<Integer>q=new PriorityQueue<>();
+        ArrayList<Integer>ans=new ArrayList<>();
+        for(int i:arr){
+            q.add(i);
+        }
+        while(!q.isEmpty()){
+            ans.add(q.peek());
+            q.poll();
+        }
+        int res[]=new int[ans.size()];
+        for(int i=0;i<res.length;i++){
+            res[i]=ans.get(i);
+        }
+        return res;
         
     }
 }
