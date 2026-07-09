@@ -29,6 +29,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Chandru9842/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Chandru9842/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Chandru9842/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chandru9842/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 | [0997-find-the-town-judge](https://github.com/Chandru9842/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandru9842/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Chandru9842/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Chandru9842/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0785-is-graph-bipartite](https://github.com/Chandru9842/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Chandru9842/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Chandru9842/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Chandru9842/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | [0997-find-the-town-judge](https://github.com/Chandru9842/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Chandru9842/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Chandru9842/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Chandru9842/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chandru9842/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -219,6 +223,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Chandru9842/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Chandru9842/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
