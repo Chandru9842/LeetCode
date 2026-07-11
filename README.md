@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Chandru9842/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Chandru9842/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Chandru9842/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Chandru9842/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Chandru9842/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Chandru9842/LeetCode/tree/master/0048-rotate-image) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chandru9842/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Chandru9842/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Chandru9842/LeetCode/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandru9842/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -245,6 +247,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Chandru9842/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Chandru9842/LeetCode/tree/master/1288-remove-covered-intervals) |
