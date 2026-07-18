@@ -32,6 +32,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Chandru9842/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Chandru9842/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chandru9842/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chandru9842/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chandru9842/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chandru9842/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -245,6 +246,7 @@
 | [0066-plus-one](https://github.com/Chandru9842/LeetCode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chandru9842/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chandru9842/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Chandru9842/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Chandru9842/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -319,6 +321,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chandru9842/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chandru9842/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chandru9842/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
