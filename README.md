@@ -27,6 +27,7 @@
 | [0997-find-the-town-judge](https://github.com/Chandru9842/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Chandru9842/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chandru9842/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/Chandru9842/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Chandru9842/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Chandru9842/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +151,7 @@
 | [0994-rotting-oranges](https://github.com/Chandru9842/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Chandru9842/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chandru9842/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/Chandru9842/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chandru9842/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
@@ -171,6 +173,7 @@
 | [0054-spiral-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Chandru9842/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Chandru9842/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/Chandru9842/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Chandru9842/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chandru9842/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
