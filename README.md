@@ -21,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/Chandru9842/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0542-01-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Chandru9842/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chandru9842/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Chandru9842/LeetCode/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0912-sort-an-array) |
@@ -45,6 +46,7 @@
 | [0036-valid-sudoku](https://github.com/Chandru9842/LeetCode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Chandru9842/LeetCode/tree/master/0133-clone-graph) |
+| [0560-subarray-sum-equals-k](https://github.com/Chandru9842/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/Chandru9842/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandru9842/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Chandru9842/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -180,6 +182,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Chandru9842/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chandru9842/LeetCode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Chandru9842/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Chandru9842/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
