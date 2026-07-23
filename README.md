@@ -167,6 +167,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Chandru9842/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Chandru9842/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chandru9842/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -268,6 +269,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Chandru9842/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Chandru9842/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Chandru9842/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0523-continuous-subarray-sum](https://github.com/Chandru9842/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -366,4 +368,8 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Chandru9842/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chandru9842/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
