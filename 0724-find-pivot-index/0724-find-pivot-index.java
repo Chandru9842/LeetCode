@@ -7,7 +7,7 @@ class Solution {
         }
         for(int i=0;i<nums.length;i++){
             r-=nums[i];
-            if(l==r){
+            if(r==l){
                 return i;
             }
             l+=nums[i];
