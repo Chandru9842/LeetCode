@@ -18,32 +18,32 @@ class Solution {
         // }
         // return max;
 
-        // int max=-1;
-        // int max1=-1;
-        // while(n!=0){
-        //     int last=n%10;
-        //     if(last>=max){
-        //         max1=max;
-        //         max=last;
-        //     }
-        //     else if(last>max1){
-        //         max1=last;
-
-        //     }
-        //     n/=10;
-
-        // }
-        // return max*max1;
-        PriorityQueue<Integer>pq=new PriorityQueue<>();
+        int max=-1;
+        int max1=-1;
         while(n!=0){
             int last=n%10;
-            pq.offer(last);
-            if(pq.size()>2){
-                pq.poll();
+            if(last>=max){
+                max1=max;
+                max=last;
+            }
+            else if(last>max1){
+                max1=last;
+
             }
             n/=10;
+
         }
-        return pq.poll()*pq.poll();
+        return max*max1;
+        // PriorityQueue<Integer>pq=new PriorityQueue<>();
+        // while(n!=0){
+        //     int last=n%10;
+        //     pq.offer(last);
+        //     if(pq.size()>2){
+        //         pq.poll();
+        //     }
+        //     n/=10;
+        // }
+        // return pq.poll()*pq.poll();
         
         
     }
