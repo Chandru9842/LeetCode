@@ -8,8 +8,9 @@ class Solution {
         }
         int max=0;
         for(int i=0;i<ans.size();i++){
+            int sum=0;
             for(int j=i+1;j<ans.size();j++){
-                int sum=ans.get(i)*ans.get(j);
+                 sum=ans.get(i)*ans.get(j);
                 max=Math.max(sum,max);
 
             }
