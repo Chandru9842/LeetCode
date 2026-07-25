@@ -10,9 +10,7 @@ class Solution {
         for(int i=0;i<ans.size();i++){
             for(int j=i+1;j<ans.size();j++){
                 int sum=ans.get(i)*ans.get(j);
-                if(sum>max){
-                    max=sum;
-                }
+                max=Math.max(sum,max);
 
             }
         }
