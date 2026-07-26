@@ -54,6 +54,7 @@
 | [0036-valid-sudoku](https://github.com/Chandru9842/LeetCode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Chandru9842/LeetCode/tree/master/0133-clone-graph) |
+| [0383-ransom-note](https://github.com/Chandru9842/LeetCode/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Chandru9842/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandru9842/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/Chandru9842/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/Chandru9842/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/Chandru9842/LeetCode/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/Chandru9842/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chandru9842/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandru9842/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -75,6 +77,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Chandru9842/LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandru9842/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Chandru9842/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Depth-First Search
