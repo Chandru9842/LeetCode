@@ -75,6 +75,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chandru9842/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandru9842/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Chandru9842/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chandru9842/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Chandru9842/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chandru9842/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chandru9842/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -307,6 +308,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandru9842/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chandru9842/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Chandru9842/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chandru9842/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandru9842/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -384,6 +386,7 @@
 | [0011-container-with-most-water](https://github.com/Chandru9842/LeetCode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Chandru9842/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chandru9842/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chandru9842/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
 | ------- |
