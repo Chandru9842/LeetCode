@@ -27,6 +27,7 @@ class Solution {
         path(ans,root.left,tar-root.val,res);
         path(ans,root.right,tar-root.val,res);
         res.remove(res.size()-1);
+        return;
 
         
 
