@@ -15,48 +15,45 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        ArrayList<List<Integer>>ans=new ArrayList<>();
+        List<List<Integer>>ans=new ArrayList<>();
         Deque<TreeNode>q=new ArrayDeque<>();
+        boolean lefttoright=true;
         if(root==null){
             return ans;
         }
-        boolean lefttoRight=true;
-        q.offer(root);
+        q.add(root);
         while(!q.isEmpty()){
+            LinkedList<Integer>res=new LinkedList<>();
             int size=q.size();
-            // ArrayLinkedList<>
-            LinkedList<Integer>row=new LinkedList<>();
-
-            // LinkedList<Integer> level = new LinkedList<>();
             for(int i=0;i<size;i++){
-                 root=q.poll();
-                 if(lefttoRight){
-                    row.addLast(root.val);
-                 }
-                 if(!lefttoRight){
-                    row.addFirst(root.val);
-                 }
-                 if(root.left!=null){
-                    q.offer(root.left);
-                 }
-                 if(root.right!=null){
-                    q.offer(root.right);
-                 }
-
+                TreeNode node=q.poll();
+                if(lefttoright){
+                     res.addLast(node.val);
+                }
+                else{
+                     res.addFirst(node.val);
+                   
+                }
+                if(node.left!=null){
+                    q.offer(node.left);
+                }
+                if(node.right!=null){
+                    q.offer(node.right);
+                }
+                
             }
-            ans.add(row);
-            if(lefttoRight==true){
-                lefttoRight=false;
+            ans.add(res);
+            // lefttoright=!lefttoright;  is is correct not not readable
+            if(lefttoright==true){
+                lefttoright=false;
             }
             else{
-                lefttoRight=true;
+                lefttoright=true;
             }
-           
-
-
         }
+
         return ans;
 
- 
+        
     }
 }
