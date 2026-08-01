@@ -25,6 +25,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Chandru9842/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Chandru9842/LeetCode/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/Chandru9842/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Chandru9842/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Chandru9842/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0542-01-matrix) |
@@ -209,6 +210,7 @@
 | [0213-house-robber-ii](https://github.com/Chandru9842/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Chandru9842/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Chandru9842/LeetCode/tree/master/0337-house-robber-iii) |
+| [0486-predict-the-winner](https://github.com/Chandru9842/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Chandru9842/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chandru9842/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -332,6 +334,7 @@
 | [0066-plus-one](https://github.com/Chandru9842/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Chandru9842/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Chandru9842/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/Chandru9842/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Chandru9842/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -457,4 +460,12 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Chandru9842/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Chandru9842/LeetCode/tree/master/0257-binary-tree-paths) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Chandru9842/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Chandru9842/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
