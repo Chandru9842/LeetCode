@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Chandru9842/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Chandru9842/LeetCode/tree/master/0066-plus-one) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Chandru9842/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chandru9842/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Chandru9842/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Chandru9842/LeetCode/tree/master/0036-valid-sudoku) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Chandru9842/LeetCode/tree/master/0133-clone-graph) |
 | [0383-ransom-note](https://github.com/Chandru9842/LeetCode/tree/master/0383-ransom-note) |
@@ -276,6 +278,7 @@
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Chandru9842/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -304,6 +307,7 @@
 | [0100-same-tree](https://github.com/Chandru9842/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chandru9842/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Chandru9842/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -325,6 +329,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
