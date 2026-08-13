@@ -5,6 +5,7 @@ class Solution {
         }
         if(root.val==val){
             ans.add(root);
+            return;
         }
         dfs(root.left,val,ans);
         dfs(root.right,val,ans);
