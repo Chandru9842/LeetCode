@@ -1,24 +1,21 @@
 class Solution {
-    void search(TreeNode root,int key,ArrayList<TreeNode>adj){
+    public void dfs(TreeNode root,int val,ArrayList<TreeNode>ans){
         if(root==null){
             return;
         }
-       if(root.val==key){
-        adj.add(root);
-        return;
-       }
-       search(root.left,key,adj);
-       search(root.right,key,adj);
-
+        if(root.val==val){
+            ans.add(root);
+        }
+        dfs(root.left,val,ans);
+        dfs(root.right,val,ans);
     }
     public TreeNode searchBST(TreeNode root, int val) {
-        ArrayList<TreeNode>adj=new ArrayList<>();
-        search(root,val,adj);
-        if(adj.size()==0){
+        ArrayList<TreeNode>ans=new ArrayList<>();
+        dfs(root,val,ans);
+        if(ans.size()==0){
             return null;
         }
-       
-        return adj.get(0);
+        return ans.get(0);
         
     }
 }
