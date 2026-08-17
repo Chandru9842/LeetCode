@@ -26,7 +26,7 @@ class Solution {
         while(q.size()>k){
             q.poll();
         }
-        return q.poll();
+        return q.peek();
 
         
     }
