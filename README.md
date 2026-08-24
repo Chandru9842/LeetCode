@@ -402,6 +402,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Chandru9842/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chandru9842/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
@@ -553,6 +554,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Chandru9842/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/Chandru9842/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
