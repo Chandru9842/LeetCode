@@ -37,6 +37,7 @@
 | [0542-01-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandru9842/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chandru9842/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Chandru9842/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Chandru9842/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Chandru9842/LeetCode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Chandru9842/LeetCode/tree/master/0877-stone-game) |
@@ -578,4 +579,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chandru9842/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Chandru9842/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
