@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chandru9842/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0058-length-of-last-word](https://github.com/Chandru9842/LeetCode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Chandru9842/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandru9842/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
