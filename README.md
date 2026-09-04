@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chandru9842/LeetCode/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Chandru9842/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Chandru9842/LeetCode/tree/master/0036-valid-sudoku) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
@@ -95,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Chandru9842/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Chandru9842/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandru9842/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -590,6 +592,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Chandru9842/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chandru9842/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Chandru9842/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandru9842/LeetCode/tree/master/0643-maximum-average-subarray-i) |
