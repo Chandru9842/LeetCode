@@ -102,6 +102,7 @@
 | [0014-longest-common-prefix](https://github.com/Chandru9842/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandru9842/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chandru9842/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/Chandru9842/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Chandru9842/LeetCode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/Chandru9842/LeetCode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Chandru9842/LeetCode/tree/master/0257-binary-tree-paths) |
