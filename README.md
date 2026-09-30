@@ -46,6 +46,7 @@
 | [0877-stone-game](https://github.com/Chandru9842/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Chandru9842/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Chandru9842/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Chandru9842/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Chandru9842/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandru9842/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -95,6 +96,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandru9842/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Chandru9842/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Chandru9842/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Chandru9842/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandru9842/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Chandru9842/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandru9842/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -315,6 +317,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Chandru9842/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandru9842/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chandru9842/LeetCode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Chandru9842/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandru9842/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Chandru9842/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandru9842/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -655,6 +658,7 @@
 | [0567-permutation-in-string](https://github.com/Chandru9842/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandru9842/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Chandru9842/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Chandru9842/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandru9842/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Chandru9842/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandru9842/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
