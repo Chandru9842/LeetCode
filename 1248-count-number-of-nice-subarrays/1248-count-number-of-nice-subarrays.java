@@ -23,5 +23,21 @@ class Solution {
 
         }
         return cnt;
+    // int cnt=0;
+    // for(int i=0;i<nums.length;i++){
+    //     int sum=0;
+    //     for(int j=i;j<nums.length;j++){
+    //         if(nums[j]%2!=0){
+    //             sum++;
+    //         }
+    //         if(sum==k){
+    //             cnt++;
+    //             // break;
+    //         }
+
+
+    //     }
+    // }
+    // return cnt;
     }
 }
