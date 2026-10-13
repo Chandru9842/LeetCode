@@ -490,6 +490,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Chandru9842/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chandru9842/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Chandru9842/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
