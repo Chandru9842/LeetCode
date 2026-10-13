@@ -15,7 +15,7 @@ class Solution {
         }
         ListNode second=head;
         ListNode first=head;
-        ListNode previous=null;
+        ListNode previous=head;
         // ArrayList<Node>arr=new ArrayList<>();
         for(int i=0;i<n;i++){
             if(first==null){
