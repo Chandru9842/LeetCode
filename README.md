@@ -69,6 +69,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandru9842/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandru9842/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandru9842/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandru9842/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chandru9842/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chandru9842/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Chandru9842/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -114,6 +115,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandru9842/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chandru9842/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandru9842/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandru9842/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandru9842/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandru9842/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chandru9842/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -636,6 +638,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandru9842/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chandru9842/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -723,4 +726,8 @@
 | [0022-generate-parentheses](https://github.com/Chandru9842/LeetCode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chandru9842/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Chandru9842/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandru9842/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
