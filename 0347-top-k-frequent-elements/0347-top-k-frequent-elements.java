@@ -20,20 +20,40 @@ class Solution {
         // }
         // return res;
 
-        HashMap<Integer,Integer>map=new HashMap<>();
+         HashMap<Integer,Integer>map=new HashMap<>();
         for(int i:nums){
             map.put(i,map.getOrDefault(i,0)+1);
         }
-        ArrayList<Integer>lst=new ArrayList<>(map.keySet());
-        lst.sort(
-            (a,b)->map.get(b)-map.get(a));
-
+        PriorityQueue<Integer>pq=new PriorityQueue<>((a,b)->(map.get(a)-map.get(b)));
+        for(int key:map.keySet()){
+            pq.offer(key);
+            if(pq.size()>k){
+                pq.poll();
+            }
+        }
         int[]res=new int[k];
-        for(int i=0;i<k;i++){
-            res[i]=lst.get(i);
-
+        int i=0;
+        while(!pq.isEmpty()){
+            res[i++]=pq.peek();
+            pq.poll();
         }
         return res;
+
+
+        // HashMap<Integer,Integer>map=new HashMap<>();
+        // for(int i:nums){
+        //     map.put(i,map.getOrDefault(i,0)+1);
+        // }
+        // ArrayList<Integer>lst=new ArrayList<>(map.keySet());
+        // lst.sort(
+        //     (a,b)->map.get(b)-map.get(a));
+
+        // int[]res=new int[k];
+        // for(int i=0;i<k;i++){
+        //     res[i]=lst.get(i);
+
+        // }
+        // return res;
        
     }
 }
