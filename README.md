@@ -48,6 +48,7 @@
 | [0724-find-pivot-index](https://github.com/Chandru9842/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Chandru9842/LeetCode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Chandru9842/LeetCode/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Chandru9842/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Chandru9842/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Chandru9842/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
