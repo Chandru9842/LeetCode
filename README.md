@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Chandru9842/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Chandru9842/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Chandru9842/LeetCode/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandru9842/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chandru9842/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Chandru9842/LeetCode/tree/master/0118-pascals-triangle) |
@@ -367,6 +368,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandru9842/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Chandru9842/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Chandru9842/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Chandru9842/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Chandru9842/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandru9842/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Chandru9842/LeetCode/tree/master/0344-reverse-string) |
@@ -547,6 +549,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chandru9842/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Chandru9842/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chandru9842/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Chandru9842/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -763,9 +766,14 @@
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Chandru9842/LeetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Chandru9842/LeetCode/tree/master/1051-height-checker) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Chandru9842/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Chandru9842/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
