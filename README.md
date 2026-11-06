@@ -80,6 +80,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandru9842/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandru9842/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Chandru9842/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/Chandru9842/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandru9842/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chandru9842/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chandru9842/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -131,6 +132,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandru9842/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chandru9842/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandru9842/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/Chandru9842/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandru9842/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandru9842/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandru9842/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -576,6 +578,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Chandru9842/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chandru9842/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandru9842/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2747-count-zero-request-servers](https://github.com/Chandru9842/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandru9842/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chandru9842/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chandru9842/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -743,6 +746,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandru9842/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandru9842/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandru9842/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/Chandru9842/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandru9842/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Trie
 |  |
