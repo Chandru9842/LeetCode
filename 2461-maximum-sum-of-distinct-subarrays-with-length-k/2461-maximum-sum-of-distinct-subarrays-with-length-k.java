@@ -1,84 +1,30 @@
 class Solution {
-    // public long maximumSubarraySum(int[] arr, int k) {
-        // int l=0;
-        // int j=0;
-        // long max=0,sum=0;
-        // // Arrays.sort(arr);
-        // int[] freq = new int[100001];
-        // for(int r=0;r<arr.length;r++){
-        //     sum+=arr[r];
-        //     freq[arr[r]]++;
-        //     if(r-l+1>k){
-        //         sum-=arr[l];
-        //         freq[arr[l]]--;
-        //         l++;
-        //     }
-        //     if(r-l+1==k){
-        //        boolean found=true;
-        //        for(int i=l;i<=r;i++){
-        //         if(freq[arr[i]]>1){
-        //             found=false;
-        //         }
-        //        }
-        //        if(found){
-        //         max=Math.max(max,sum);
+    public long maximumSubarraySum(int[] nums, int k) {
+        HashMap<Integer,Integer>map=new HashMap<>();
+        long sum=0;
+        long max=0;
+        int l=0;
+        for(int r=0;r<nums.length;r++){
+            sum+=nums[r];
+            map.put(nums[r],map.getOrDefault(nums[r],0)+1);
+            if(r-l+1>k){
+                sum-=nums[l];
+                 map.put(nums[l],map.get(nums[l])-1);
+                 if(map.get(nums[l])==0){
+                    map.remove(nums[l]);
 
-        //        }
-        //     }
-           
-        // }
-        // return max;
-        public long maximumSubarraySum(int[] arr, int k) {
-            int dist=0;
-            long max=0;
-            long sum=0;
-            int l=0;
-            int[]freq=new int[100001];
-            for(int r=0;r<arr.length;r++){
-                sum+=arr[r];
-                if(freq[arr[r]]==0){
-                    dist++;
-                }
-                freq[arr[r]]++;
-                if(r-l+1>k){
-                    sum-=arr[l];
-                    freq[arr[l]]--;
-                    if(freq[arr[l]]==0){
-                        dist--;
-                    }
-                    l++;
+                 }
+                 l++;
 
-
-                }
-                if(r-l+1==k){
-                    if(k==dist){
-                        max=Math.max(max,sum);
-                    }
-                }
             }
-            return max;
+            if(r-l+1==k){
+                if(map.size()==k){
+                max=Math.max(sum,max);
+            }}
+
+        }
+        return max;
+
         
     }
-    // public long maximumSubarraySum(int[]arr,int k){
-    //     Set<Integer>set=new HashSet<>();
-    //     int l=0;
-    //     long sum=0;
-    //     long max=0;
-    //     for(int r=0;r<arr.length;r++){
-    //         sum+=arr[r];
-    //         set.add(arr[r]);
-    //         if(r-l+1>k){
-    //             sum-=arr[l];
-    //             set.remove(arr[l]);
-    //             l++;
-    //         }
-    //         if(r-l+1==k){
-    //             if(set.size()==k){
-    //                 max=Math.max(max,sum);
-    //             }
-    //         }
-    //     }
-    //     return max;
-
-    // }
 }
