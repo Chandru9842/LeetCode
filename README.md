@@ -69,6 +69,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chandru9842/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Chandru9842/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Chandru9842/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Chandru9842/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Chandru9842/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chandru9842/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Chandru9842/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -192,6 +193,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Chandru9842/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Chandru9842/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Chandru9842/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Chandru9842/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Chandru9842/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandru9842/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -234,6 +236,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandru9842/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Chandru9842/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Chandru9842/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Chandru9842/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Chandru9842/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chandru9842/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -270,6 +273,7 @@
 | [0994-rotting-oranges](https://github.com/Chandru9842/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Chandru9842/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chandru9842/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Chandru9842/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Chandru9842/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chandru9842/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union-Find
@@ -280,6 +284,7 @@
 | [0547-number-of-provinces](https://github.com/Chandru9842/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Chandru9842/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Chandru9842/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Chandru9842/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Chandru9842/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chandru9842/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -314,6 +319,7 @@
 | [1020-number-of-enclaves](https://github.com/Chandru9842/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chandru9842/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chandru9842/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Chandru9842/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chandru9842/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
