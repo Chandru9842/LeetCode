@@ -54,8 +54,11 @@ class Solution {
         // }
         // return max;
 
-        int max=0;
+
+
+
         int zeros=0;
+        int max=0;
         int l=0;
         for(int r=0;r<nums.length;r++){
             if(nums[r]==0){
