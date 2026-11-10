@@ -72,6 +72,7 @@
 | [1260-shift-2d-grid](https://github.com/Chandru9842/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Chandru9842/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Chandru9842/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1314-matrix-block-sum](https://github.com/Chandru9842/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chandru9842/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Chandru9842/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Chandru9842/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -324,6 +325,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Chandru9842/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chandru9842/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Chandru9842/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1314-matrix-block-sum](https://github.com/Chandru9842/LeetCode/tree/master/1314-matrix-block-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chandru9842/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
@@ -380,6 +382,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Chandru9842/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chandru9842/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Chandru9842/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/Chandru9842/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Chandru9842/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandru9842/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Chandru9842/LeetCode/tree/master/1732-find-the-highest-altitude) |
