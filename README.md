@@ -81,6 +81,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Chandru9842/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandru9842/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Chandru9842/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Chandru9842/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1882-process-tasks-using-servers](https://github.com/Chandru9842/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Chandru9842/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandru9842/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -349,6 +350,7 @@
 | [0542-01-matrix](https://github.com/Chandru9842/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chandru9842/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Chandru9842/LeetCode/tree/master/0877-stone-game) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Chandru9842/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandru9842/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Topological Sort
 |  |
