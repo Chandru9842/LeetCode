@@ -94,6 +94,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandru9842/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chandru9842/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Chandru9842/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Chandru9842/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandru9842/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chandru9842/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandru9842/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -394,6 +395,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Chandru9842/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Chandru9842/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Chandru9842/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Chandru9842/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Chandru9842/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -787,6 +789,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandru9842/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chandru9842/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/Chandru9842/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Chandru9842/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chandru9842/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandru9842/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Trie
