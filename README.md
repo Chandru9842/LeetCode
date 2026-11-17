@@ -189,6 +189,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Chandru9842/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandru9842/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Chandru9842/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandru9842/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chandru9842/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandru9842/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Chandru9842/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -357,6 +358,7 @@
 | [0877-stone-game](https://github.com/Chandru9842/LeetCode/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Chandru9842/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Chandru9842/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandru9842/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandru9842/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Chandru9842/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Topological Sort
@@ -422,6 +424,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandru9842/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Chandru9842/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chandru9842/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandru9842/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chandru9842/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Chandru9842/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
