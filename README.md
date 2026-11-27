@@ -385,6 +385,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Chandru9842/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chandru9842/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chandru9842/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Chandru9842/LeetCode/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chandru9842/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -594,6 +595,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Chandru9842/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandru9842/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chandru9842/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/Chandru9842/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Chandru9842/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandru9842/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Chandru9842/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
