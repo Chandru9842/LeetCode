@@ -113,6 +113,7 @@
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chandru9842/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3934-smallest-unique-subarray](https://github.com/Chandru9842/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Chandru9842/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Chandru9842/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,6 +369,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandru9842/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandru9842/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Chandru9842/LeetCode/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Chandru9842/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -724,6 +726,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Chandru9842/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chandru9842/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Chandru9842/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Chandru9842/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
